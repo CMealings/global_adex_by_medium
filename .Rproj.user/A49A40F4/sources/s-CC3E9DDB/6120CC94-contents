@@ -1,0 +1,5 @@
+openToolbox <- function() {
+  toolbox <- list.files("E:/Users/WARC/CM/toolbox/")
+  for (tool in toolbox)
+    source(paste0("E:/Users/WARC/CM/toolbox/", tool))
+}

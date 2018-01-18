@@ -1,0 +1,16 @@
+<!--StartofArticle-->
+
+<!--Abstract-->
+<p>Global adspend rises 3.7% in 2016. Global adspend reaches US$ 529.5bn. North America attracts the majority share of global adspend on 36.5%. North America was the fastest growing region, with spend up 8.0%.</p>
+
+<!--Global-->
+
+<p>Global advertising expenditure stood at US$ 529.5bn in 2016, according to data from WARC. This represents year-on-year growth of 3.7% from 2015, when total spend amounted to US$ 511.0bn. Since 2007, global adspend has recorded increases every year, with the exception of 2009 and 2015 when spend fell by 12.5% and 4.4% respectively. However, care should be taken when comparing year-on-year totals in dollar terms, as the results will be affected by fluctuations in the exchange rate. If we examine the same data using purchasing power parities (PPPs)* then the year-on-year global adspend drop was smaller in 2009 on 7.1%. Along the same lines, the fall shown in dollars for 2015 can be almost entirely attributed to the strength of the dollar versus other currencies, as the global year-on-year growth rate in PPPs was actually 3.5%.</p>
+<br>
+<p>When considering global advertising spend by region, data show that North America accounted for the majority share of spend. In 2016 the region accounted for US$ 193.3bn, or a 36.5% share. This represents a 2.7 percentage point (pp) dip from its share in 2007. The next biggest region in 2016 was Asia Pacific (US$ 156.1bn), followed by Europe on US$ 127.4bn – equivalent to shares of 29.5% and 24.1% respectively. Latin America (US$ 28.5bn, 5.4% share) came next, followed by the Middle East (US$ 17.9bn, 3.4% share) and lastly Africa (US$ 6.3bn, 1.2% share). The same data shown in PPPs indicates that Asia Pacific was actually the largest region for advertising spend in 2016.</p>
+<br>
+<p>Of the regions monitored, adspend in North America grew fastest in 2016, up 8.0% year-on-year. Asia Pacific came next on 5.3%, followed by Europe (0.8%), Latin America (-4.4%), the Middle East (-11.2%) and lastly Africa (-11.5%).</p>
+<br>
+<i>* PPP = Purchasing Power Parity (PPPs) measures the buying power of local currency units when spent in their domestic markets. They enable accurate international comparisons of economies and prices by removing the impact of exchange rate fluctuations. The US economy is used as the global reference point for PPPs and is set to an index value of 100.</i>
+
+<!--EndofArticle-->

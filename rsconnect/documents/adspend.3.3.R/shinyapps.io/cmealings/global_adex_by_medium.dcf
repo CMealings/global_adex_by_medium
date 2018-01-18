@@ -1,0 +1,13 @@
+name: global_adex_by_medium
+title: global_adex_by_medium
+username:
+account: cmealings
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 258078
+bundleId: 1181585
+url: https://cmealings.shinyapps.io/global_adex_by_medium/
+when: 1516287350.72914
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: adspend.1.1.R|adspend.2.1.R|adspend.2.2.R|adspend.3.1.R|adspend.3.2.R|app.R.R|charts.R|Global.png|GlobalPlot.png
